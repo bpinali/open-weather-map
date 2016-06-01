@@ -1,2 +1,6 @@
 app/bower_components
 node_modules/*
+app/config.codekit
+app/min
+
+*.codekit
